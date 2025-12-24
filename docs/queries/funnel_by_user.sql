@@ -1,4 +1,5 @@
 -- Funnel extraction at user level
+-- Expected schema: (user_id, event_type, event_time, product_id, category_code, brand, price, user_session)
 -- Each row represents one user and whether they reached each funnel step
 
 SELECT
