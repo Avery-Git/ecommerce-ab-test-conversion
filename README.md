@@ -42,6 +42,7 @@ All experiments are conducted **offline** and explicitly framed as simulations.
 ---
 
 ## Project Structure
+```
 ├── docs/
 │ ├── queries/
 │ ├── methodology.md
@@ -57,7 +58,7 @@ All experiments are conducted **offline** and explicitly framed as simulations.
 ├── data/
 │ └── clean_events.csv
 └── README.md
-
+```
 ---
 
 ## Key Takeaways
